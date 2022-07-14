@@ -1,0 +1,14 @@
+{
+    "name": "milton/restaurante",
+    "description": "Sistema para restaurante",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },       
+    
+    "files": [
+            "app/helpers.php"
+        ]
+    },
+    "require": {}
+}
